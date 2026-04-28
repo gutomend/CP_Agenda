@@ -1,0 +1,14 @@
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\bin\Debug\net10.0\CPAgenda.exe
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\bin\Debug\net10.0\CPAgenda.deps.json
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\bin\Debug\net10.0\CPAgenda.runtimeconfig.json
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\bin\Debug\net10.0\CPAgenda.dll
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\bin\Debug\net10.0\CPAgenda.pdb
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\obj\Debug\net10.0\CPAgenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\obj\Debug\net10.0\CPAgenda.AssemblyInfoInputs.cache
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\obj\Debug\net10.0\CPAgenda.AssemblyInfo.cs
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\obj\Debug\net10.0\CPAgenda.csproj.CoreCompileInputs.cache
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\obj\Debug\net10.0\CPAgenda.dll
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\obj\Debug\net10.0\refint\CPAgenda.dll
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\obj\Debug\net10.0\CPAgenda.pdb
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\obj\Debug\net10.0\CPAgenda.genruntimeconfig.cache
+E:\Fiap\CP1-Agenda\CPAgenda\CPAgenda\obj\Debug\net10.0\ref\CPAgenda.dll
